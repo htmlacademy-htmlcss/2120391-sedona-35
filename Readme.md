@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлия Расова](https://up.htmlacademy.ru/htmlcss/35/user/2120391).
-* Наставник: [Михаил Данюшин](https://htmlacademy.ru/profile/id225742)
+* Наставник: [Михаил Данюшин](https://htmlacademy.ru/profile/id225742).
 
 ---
 
